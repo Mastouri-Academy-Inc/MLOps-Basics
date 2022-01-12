@@ -298,3 +298,42 @@ In this week, I will be going through the following topics:
 - `Creating Kibana Dashboard`
 
 ![Docker](images/kibana_flow.png)
+
+
+---------------
+MLOps Basics By Raviraja Ganta :
+
+Week 0: Project Setup 
+https://lnkd.in/eUCcbD9n
+
+Week 1: Model monitoring - Weights and Biases 
+https://lnkd.in/eCtCgms5
+
+Week 2: Configurations - Hydra 
+https://lnkd.in/e_56nreH
+
+Week 3: Data Version Control - DVC 
+https://lnkd.in/eXahvheT
+
+Week 4: Model Packaging - ONNX 
+https://lnkd.in/eyvgERP6
+
+Week 5: Model Packaging - Docker 
+https://lnkd.in/e3SyiXEb
+
+Week 6: CI/CD - GitHub Actions 
+https://lnkd.in/eaRh2ifB
+
+Week 7: Container Registry - AWS ECR 
+https://lnkd.in/ebnmqfTz
+
+Week 8: Serverless Deployment - AWS Lambda 
+https://lnkd.in/eB4TJk4n
+
+Week 9: Prediction Monitoring - Kibana 
+https://lnkd.in/eNNMU28s
+
+Week 10: Summary 
+https://lnkd.in/eZ6j5DZZ
+
+Github Code https://lnkd.in/eJPFmYys
